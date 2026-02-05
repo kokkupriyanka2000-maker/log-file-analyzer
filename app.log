@@ -1,0 +1,5 @@
+INFO 2024-02-01 Application started
+WARNING 2024-02-01 Low memory detected
+ERROR 2024-02-01 Failed to load module A
+ERROR 2024-02-01 Failed to load module A
+INFO 2024-02-01 Application stopped
